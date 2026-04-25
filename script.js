@@ -28,7 +28,7 @@ const account2 = {
   owner: 'Brock Fero',
   movements: [50000, 3400, -150, -790, -3210, -1000, 2000, -30],
   interestRate: 1.5,
-  pin: 4200,
+  pin: 2222,
   movementsDates: [
     '2025-11-01T13:15:33.035Z',
     '2025-11-30T09:48:16.867Z',

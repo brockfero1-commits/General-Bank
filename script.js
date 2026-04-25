@@ -26,7 +26,7 @@ const account1 = {
 
 const account2 = {
   owner: 'Brock Fero',
-  movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
+  movements: [50000, 3400, -150, -790, -3210, -1000, 2000, -30],
   interestRate: 1.5,
   pin: 4200,
   movementsDates: [
